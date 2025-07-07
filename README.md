@@ -1,42 +1,51 @@
-Hi, I'm Santhoshi Biradar.
-I'm a Master's student in Computer Science (Information Systems) at Saint Louis University, graduating in May 2025. With hands-on experience at Amazon and Accenture, I specialize in Data Analytics, Business Intelligence, and Process Optimization.
+Hi,I'm Santhoshi Biradar.
 
-I enjoy solving real-world problems using tools like Power BI, SQL, Excel, Python (pandas), and Alteryx. My goal is to help organizations make smarter decisions by transforming raw data into clear, actionable insights.
+I'm pursuing a Master's in Computer Science (Information Systems) at Saint Louis University, with graduation expected in May 2025. My academic focus, combined with industry experience at Amazon and Accenture, has shaped my expertise in business intelligence, data analytics, and operational efficiency.
 
-What I Do:
-Design and develop interactive dashboards using Power BI to visualize trends, KPIs, and business metrics
+I specialize in analyzing business problems using data and building end-to-end BI solutions that support strategic decision-making. I’m proficient in Power BI, SQL, Excel, and Python (pandas), with a strong foundation in dashboard development, data modeling, KPI reporting, and workflow optimization.
 
-Perform data wrangling, data cleaning, and pre-processing using Excel, SQL, and Python (pandas)
+🔍 What I Do
+📊 Build Interactive Dashboards
+•	Design Power BI dashboards with KPIs, slicers, and drill-downs to uncover trends and track business metrics
+🧹 Clean & Transform Data
+•	Perform data wrangling, cleaning, and shaping using SQL, Power Query, Excel, and Python (pandas)
+📈 Analyze Business Performance
+•	Conduct churn analysis, sales trend reviews, customer segmentation, and product performance insights
+🗂️ Develop Reporting Solutions
+•	Automate reports and build scalable BI models for monthly, quarterly, and ad hoc reporting
+💬 Translate Business Needs
+•	Gather requirements and convert them into analytical workflows and data visualizations
+📚 Communicate Insights
+•	Present insights with clear data storytelling to both technical and non-technical stakeholders
+🤝 Collaborate Across Teams
+•	Work in Agile/Scrum teams with product managers, data engineers, and business users
 
-Translate business needs into analytical models and reporting solutions to support decision-making
+💼 What I Bring
+🛠️ Tech Stack & Tools
+•	Power BI, SQL, Excel (Power Query, Pivot Tables, DAX), Python (pandas), Alteryx, Tableau
+•	Snowflake, Relational Databases, Data Modeling, ETL
+📌 Core Analyst Skills
+•	KPI Development, Data Visualization, Dashboard Design, Process Optimization, Ad Hoc Analysis
+•	Business Acumen, Problem Solving, Critical Thinking, Attention to Detail
+📊 Certifications & Education
+•	✅ Microsoft Power BI Data Analyst Associate
+•	✅ Certified Business Analysis Professional (CBAP)
+•	🎓 Master’s in Computer Science (Information Systems), Saint Louis University
+📈 Impact-Driven Experience
+•	Analyzed 5,000+ records to identify inefficiencies and improve reporting
+•	Reduced process downtime by 20% at Amazon through data-driven solutions
+•	Increased stakeholder engagement by 25% through intuitive dashboards
+📞 Professional Strengths
+•	Strong communication and cross-functional collaboration
+•	Ability to simplify complex data for strategic decision-making
+•	Fast learner with a growth mindset and hands-on approach
 
-Analyze customer behavior, sales performance, and churn trends to uncover actionable insights
-
-Build automated reports, conduct ad hoc analysis, and track performance across departments
-
-Communicate findings clearly through data storytelling, presentations, and stakeholder reports
-
-Collaborate with cross-functional teams using Agile/Scrum methodologies
-
-💼 What I Bring:
-Proven experience with 5,000+ data records for audits, dashboard development, and process improvement
-
-Advanced skills in Power BI, Excel (Pivot Tables, Power Query, DAX), SQL, and Python (pandas)
-
-Solid foundation in data modeling, ETL processes, and KPI definition
-
-Certification in Microsoft Power BI Data Analyst Associate and Certified Business Analysis Professional (CBAP)
-
-Understanding of data governance, data quality, and report accuracy best practices
-
-Ability to work with relational databases, cloud data platforms (e.g., Snowflake), and tools like Alteryx
-
-Strong analytical thinking, business acumen, and ability to translate data into strategic insights
-
-Excellent communication, storytelling, and problem-solving skills aligned with business goals
-
+I’m passionate about helping organizations turn data into strategic assets by connecting analytics to real business outcomes.
 
 Let’s connect:
 LinkedIn: www.linkedin.com/in/bsanthoshi
-Email:santhoshibiradar524@gmail.com 
-Resume: https://yourwebsite.com/resume.pdf
+Email: santhsohibiradar524@gmail.com
+
+
+
+
