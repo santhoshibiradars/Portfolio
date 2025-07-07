@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="![WhatsApp Image 2025-06-19 at 7 33 45 PM](https://github.com/user-attachments/assets/e176fedf-710e-4634-96c0-a5e28be752e2)
+" width="150" style="border-radius: 50%;" alt="Ibrahim Syed" />
+</p>
+
+
+
 Hi,I'm Santhoshi Biradar.
 
 I'm pursuing a Master's in Computer Science (Information Systems) at Saint Louis University, with graduation expected in May 2025. My academic focus, combined with industry experience at Amazon and Accenture, has shaped my expertise in business intelligence, data analytics, and operational efficiency.
