@@ -1,3 +1,7 @@
+git add .
+git commit -m "Added dashboards, screenshots, resume, and documentation"
+git push origin main
+
 <p align="center">
   <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
 </p>
