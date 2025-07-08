@@ -1,9 +1,7 @@
-
 <p align="center">
-  <img src="![WhatsApp Image 2025-06-19 at 7 33 45 PM](https://github.com/user-attachments/assets/e176fedf-710e-4634-96c0-a5e28be752e2)
-" width="150" style="border-radius: 50%;" alt="Ibrahim Syed" />
+  <img src="[WhatsApp Image 2025-06-19 at 7 33 45 PM](https://github.com/user-attachments/assets/7bd09be2-6445-4b85-a6d8-f4c16a247e9f)
+" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
 </p>
-
 
 
 Hi,I'm Santhoshi Biradar.
