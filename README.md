@@ -2,7 +2,6 @@
   <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
 </p>
 
-
 Hi,I'm Santhoshi Biradar.
 
 I'm pursuing a Master's in Computer Science (Information Systems) at Saint Louis University, with graduation expected in May 2025. My academic focus, combined with industry experience at Amazon and Accenture, has shaped my expertise in business intelligence, data analytics, and operational efficiency.
