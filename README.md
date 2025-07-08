@@ -9,6 +9,7 @@ I'm pursuing a Master's in Computer Science (Information Systems) at Saint Louis
 I specialize in analyzing business problems using data and building end-to-end BI solutions that support strategic decision-making. I’m proficient in Power BI, SQL, Excel, and Python (pandas), with a strong foundation in dashboard development, data modeling, KPI reporting, and workflow optimization.
 
 🔍 What I Do
+
 📊 Build Interactive Dashboards
 •	Design Power BI dashboards with KPIs, slicers, and drill-downs to uncover trends and track business metrics
 🧹 Clean & Transform Data
@@ -25,6 +26,7 @@ I specialize in analyzing business problems using data and building end-to-end B
 •	Work in Agile/Scrum teams with product managers, data engineers, and business users
 
 💼 What I Bring
+
 🛠️ Tech Stack & Tools
 •	Power BI, SQL, Excel (Power Query, Pivot Tables, DAX), Python (pandas), Alteryx, Tableau
 •	Snowflake, Relational Databases, Data Modeling, ETL
