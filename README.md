@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="[SB](https://github.com/user-attachments/assets/79b59b95-af33-401a-a8d9-45a7fffdc80f)
-
-" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
+  <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
 </p>
 
 
