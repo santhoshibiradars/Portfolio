@@ -11,7 +11,7 @@ With hands-on experience in Power BI, SQL, Python, Tableau, and Agile methodolog
 
 I thrive in collaborative environments where cross-functional communication and stakeholder alignment are key to delivering value.
 
-Projects:
+Projects:<span style="color:#28B463;font-weight:bold;">[PROJECTS]</span>
 
 Customer Behavior & Churn Trend Analysis (Power Planning Simulation)
 
