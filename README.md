@@ -3,7 +3,7 @@
 </p>
 👋 Hi, I'm Santhoshi Biradar
 
-I turn complex data into clear insights that help businesses make better decisions. I’m finishing my Master’s in Information Systems at Saint Louis University (May 2025) and have practical experience from Amazon and Accenture.
+I turn complex data into clear insights that help businesses make better decisions. I’m finishing my Master’s in Information Systems at Saint Louis University (May 2025) and have practical experience from Saint Louis University, Amazon and Accenture.
 
 Skills:
 
