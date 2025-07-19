@@ -3,9 +3,47 @@
 </p>
 👋 Hi, I'm Santhoshi Biradar
 
-I turn complex data into clear insights that help businesses make better decisions. I’m finishing my Master’s in Information Systems at Saint Louis University (May 2025) and have practical experience from Saint Louis University, Amazon and Accenture.
+I’m finished my Master’s in Information Systems at Saint Louis University (May 2025).
 
-Skills:
+I specialize in transforming complex data sets into clear, actionable insights that help businesses make confident, data-driven decisions.
+
+With hands-on experience in Power BI, SQL, Python, Tableau, and Agile methodologies, I’ve contributed to projects across Amazon, Accenture, and academic research—bringing data storytelling and process improvement together to solve real-world problems.
+
+I thrive in collaborative environments where cross-functional communication and stakeholder alignment are key to delivering value.
+
+Projects:
+
+Customer Behavior & Churn Trend Analysis (Power Planning Simulation)
+
+Developed a fully interactive Power BI dashboard simulating supply and demand mismatches based on customer churn data.
+
+Designed and implemented DAX measures to calculate critical KPIs such as Churn Rate, Contract Stability Score, and Average Tenure, enabling precise tracking of customer retention.
+
+Conducted detailed root cause analysis that revealed early churn was significantly associated with month-to-month contracts and specific payment methods.
+
+Created intuitive visuals that supported cross-team planning and informed strategic decisions to reduce churn and optimize customer lifetime value.
+
+Interactive Sales Performance Dashboard
+
+Built a dynamic Power BI dashboard that visualizes total revenue, top-selling products, and monthly sales trends from raw Amazon sales data sets.
+
+Performed data cleaning, transformation, and modeling to ensure data accuracy and usability.
+
+Applied advanced DAX formulas to generate insightful KPIs that helped identify sales drivers and bottlenecks.
+
+Added geographic and payment method filters to enable detailed segmentation and support targeted marketing strategies.
+
+Employability Analytics Dashboard
+
+Designed and implemented a comprehensive dashboard to analyze over 500 student records, focusing on curriculum planning and placement outcomes.
+
+Tracked hiring trends, skill gaps, and placement rates to inform academic program adjustments.
+
+Improved stakeholder engagement by 25% and reduced reporting turnaround time by 40% through automated data visualization and streamlined workflows.
+
+Collaborated closely with faculty and career services to ensure alignment with institutional goals and student success metrics.
+
+Skills and Tools:
 
 Creating interactive dashboards with Power BI and Tableau
 
