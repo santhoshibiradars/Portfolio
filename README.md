@@ -2,9 +2,7 @@
   <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
 </p>
 
-<p align="center">
-  <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
-</p>
+
 👋 HI, I'M SANTHOSHI BIRADAR
 
 I’m finished my Master’s in Information Systems at Saint Louis University (May 2025).
@@ -28,6 +26,7 @@ PROJECTS
 •	Created intuitive visuals that supported cross-team planning and informed strategic decisions to reduce churn and optimize customer lifetime value.
 
 💼 INTERACTIVE SALES PERFORMANCE DASHBOARD
+
 •	Built a dynamic Power BI dashboard that visualizes total revenue, top-selling products, and monthly sales trends from raw Amazon sales data sets.
 
 •	Performed data cleaning, transformation, and modeling to ensure data accuracy and usability.
@@ -37,6 +36,7 @@ PROJECTS
 •	Added geographic and payment method filters to enable detailed segmentation and support targeted marketing strategies.
 
 🎓 EMPLOYABILITY ANALYTICS DASHBOARD
+
 •	Designed and implemented a comprehensive dashboard to analyze over 500 student records, focusing on curriculum planning and placement outcomes.
 
 •	Tracked hiring trends, skill gaps, and placement rates to inform academic program adjustments.
