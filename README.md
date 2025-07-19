@@ -2,7 +2,10 @@
   <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
 </p>
 
-👋 Hi, I'm Santhoshi Biradar
+<p align="center">
+  <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Santhoshi Biradar" />
+</p>
+👋 HI, I'M SANTHOSHI BIRADAR
 
 I’m finished my Master’s in Information Systems at Saint Louis University (May 2025).
 
@@ -12,9 +15,9 @@ With hands-on experience in Power BI, SQL, Python, Tableau, and Agile methodolog
 
 I thrive in collaborative environments where cross-functional communication and stakeholder alignment are key to delivering value.
 
-Projects:
+PROJECTS
 
-📉 Customer Behavior & Churn Trend Analysis (Power Planning Simulation)
+📉 CUSTOMER BEHAVIOR & CHURN TREND ANALYSIS (POWER PLANNING SIMULATION)
 
 •	Developed a fully interactive Power BI dashboard simulating supply and demand mismatches based on customer churn data.
 
@@ -24,7 +27,7 @@ Projects:
 
 •	Created intuitive visuals that supported cross-team planning and informed strategic decisions to reduce churn and optimize customer lifetime value.
 
-💼 Interactive Sales Performance Dashboard
+💼 INTERACTIVE SALES PERFORMANCE DASHBOARD
 •	Built a dynamic Power BI dashboard that visualizes total revenue, top-selling products, and monthly sales trends from raw Amazon sales data sets.
 
 •	Performed data cleaning, transformation, and modeling to ensure data accuracy and usability.
@@ -33,7 +36,7 @@ Projects:
 
 •	Added geographic and payment method filters to enable detailed segmentation and support targeted marketing strategies.
 
-🎓 Employability Analytics Dashboard
+🎓 EMPLOYABILITY ANALYTICS DASHBOARD
 •	Designed and implemented a comprehensive dashboard to analyze over 500 student records, focusing on curriculum planning and placement outcomes.
 
 •	Tracked hiring trends, skill gaps, and placement rates to inform academic program adjustments.
@@ -42,7 +45,7 @@ Projects:
 
 •	Collaborated closely with faculty and career services to ensure alignment with institutional goals and student success metrics.
 
-Skills and Tools:
+SKILLS AND TOOLS:
 
 •	Creating interactive dashboards with Power BI and Tableau
 
@@ -58,7 +61,7 @@ Skills and Tools:
 
 •	Collaborating in Agile teams and gathering business requirements
 
-Certifications:
+CERTIFICATIONS;
 
 •	Microsoft Power BI Data Analyst Associate
 
@@ -71,6 +74,8 @@ Certifications:
 I focus on using data to spot trends, improve processes, and support faster, smarter decisions.
 📊 Let’s turn data into impact.
 
-Let’s connect:
+LET’S CONNECT:
 LinkedIn: www.linkedin.com/in/bsanthoshi
 Email: santhsohibiradar524@gmail.com
+<img width="451" height="690" alt="image" src="https://github.com/user-attachments/assets/10248598-fc1f-4a79-abec-ef48c8705d97" />
+
