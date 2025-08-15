@@ -14,8 +14,11 @@ I graduated with a Master’s in Information Systems from Saint Louis University
 Some highlights of my work:
 
 ✅ Amazon – IT Analyst Intern – Improved reporting efficiency by analyzing 5,000+ records with SQL and Excel, enhanced project alignment by collaborating across teams, and reduced process downtime by 20% through workflow optimization.
+
 ✅ Accenture – Process Associate (Quality Analyst) – Developed performance dashboards that increased reporting efficiency by 30%, conducted 100+ weekly audits, and standardized workflows across multiple teams.
+
 ✅ Customer Churn Analysis – Built a Power BI dashboard to analyze churn patterns, calculated KPIs with DAX, and identified early churn drivers to improve retention strategies.
+
 ✅ Employability Analytics Dashboard – Designed a dashboard analyzing 500+ student records, increasing stakeholder engagement by 25% and reporting efficiency by 40%.
 
 Leadership & Volunteer Experience:
