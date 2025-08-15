@@ -7,72 +7,21 @@
 
 I’m finished my Master’s in Information Systems at Saint Louis University (May 2025).
 
-I specialize in transforming complex data sets into clear, actionable insights that help businesses make confident, data-driven decisions.
+I’m a Business Intelligence Analyst with hands-on experience in data analysis, dashboard creation, and delivering insights that help teams make better decisions. I work with stakeholders to turn raw data into KPIs and visualizations that clearly show trends and opportunities.
 
-With hands-on experience in Power BI, SQL, Python, Tableau, and Agile methodologies, I’ve contributed to projects across Amazon, Accenture, and academic research—bringing data storytelling and process improvement together to solve real-world problems.
+I graduated with a Master’s in Information Systems from Saint Louis University and have completed projects using Power BI, SQL, DAX, Excel, and Python (pandas). My focus is on delivering practical solutions that improve processes and help teams make informed decisions.
 
-I thrive in collaborative environments where cross-functional communication and stakeholder alignment are key to delivering value.
+Some of my projects include:
 
-PROJECTS
+✅ Customer Churn Analysis – Analyzed churn trends and identified patterns that helped improve retention strategies.
+✅ Sales Performance Dashboard – Created dashboards showing top products and customer behavior to guide business planning.
+✅ Employability Analytics Dashboard – Designed dashboards to help academic teams identify skill gaps and track student placement trends.
 
-📉 CUSTOMER BEHAVIOR & CHURN TREND ANALYSIS (POWER PLANNING SIMULATION)
+Outside of work, I enjoy basketball 🏀, hiking ⛰️, trying new recipes 🍳, and traveling ✈️ to experience new cultures. I like finding the story in data and making it actionable.
 
-•	Developed a fully interactive Power BI dashboard simulating supply and demand mismatches based on customer churn data.
+I’m always happy to connect with fellow professionals, explore opportunities, and share insights—feel free to reach out!
 
-•	Designed and implemented DAX measures to calculate critical KPIs such as Churn Rate, Contract Stability Score, and Average Tenure, enabling precise tracking of customer retention.
-
-•	Conducted detailed root cause analysis that revealed early churn was significantly associated with month-to-month contracts and specific payment methods.
-
-•	Created intuitive visuals that supported cross-team planning and informed strategic decisions to reduce churn and optimize customer lifetime value.
-
-💼 INTERACTIVE SALES PERFORMANCE DASHBOARD
-
-•	Built a dynamic Power BI dashboard that visualizes total revenue, top-selling products, and monthly sales trends from raw Amazon sales data sets.
-
-•	Performed data cleaning, transformation, and modeling to ensure data accuracy and usability.
-
-•	Applied advanced DAX formulas to generate insightful KPIs that helped identify sales drivers and bottlenecks.
-
-•	Added geographic and payment method filters to enable detailed segmentation and support targeted marketing strategies.
-
-🎓 EMPLOYABILITY ANALYTICS DASHBOARD
-
-•	Designed and implemented a comprehensive dashboard to analyze over 500 student records, focusing on curriculum planning and placement outcomes.
-
-•	Tracked hiring trends, skill gaps, and placement rates to inform academic program adjustments.
-
-•	Improved stakeholder engagement by 25% and reduced reporting turnaround time by 40% through automated data visualization and streamlined workflows.
-
-•	Collaborated closely with faculty and career services to ensure alignment with institutional goals and student success metrics.
-
-SKILLS AND TOOLS:
-
-•	Creating interactive dashboards with Power BI and Tableau
-
-•	Writing queries and building data models using SQL, DAX, and Python (pandas)
-
-•	Cleaning and transforming data with Power Query and Alteryx
-
-•	Developing KPIs, tracking performance, and automating reports
-
-•	Explaining data findings clearly for both technical and non-technical teams
-
-•	Working with cloud databases like Snowflake and managing relational databases
-
-•	Collaborating in Agile teams and gathering business requirements
-
-CERTIFICATIONS;
-
-•	Microsoft Power BI Data Analyst Associate
-
-•	Certified Business Analysis Professional (CBAP)
-
-•	Google Data Analytics Professional Certificate
-
-•	Tableau Desktop Specialist
-
-I focus on using data to spot trends, improve processes, and support faster, smarter decisions.
-📊 Let’s turn data into impact.
+If you want, I can also rework this into a concise LinkedIn summary version under 150 words that still keeps the connect-friendly tone. Do you want me to do that?
 
 LET’S CONNECT:
 LinkedIn: www.linkedin.com/in/bsanthoshi
