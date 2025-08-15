@@ -17,7 +17,7 @@ Some of my projects include:
 ✅ Sales Performance Dashboard – Created dashboards showing top products and customer behavior to guide business planning.
 ✅ Employability Analytics Dashboard – Designed dashboards to help academic teams identify skill gaps and track student placement trends.
 
-Outside of work, I enjoy basketball 🏀, hiking ⛰️, trying new recipes 🍳, and traveling ✈️ to experience new cultures. I like finding the story in data and making it actionable.
+Outside of work, I enjoy basketball 🏀, hiking ⛰️, trying new recipes 🍳, and traveling ✈️ to experience new cultures. 
 
 I’m always happy to connect with fellow professionals, explore opportunities, and share insights—feel free to reach out!
 
